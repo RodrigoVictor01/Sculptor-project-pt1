@@ -1,4 +1,4 @@
-# Sculptor-project-pt1 - Programação Avançada - DCA1202
+# Sculptor Project - pt1 - Programação Avançada - DCA1202
 
 ## Visão geral
 
